@@ -1,0 +1,53 @@
+[{
+"nombre": "Ezequiel",
+"apellido": "Barraza",
+"edad": 33,
+"precioAsiento": 200.24,
+"pagado": true,
+"asiento": {
+    "numero": 13,
+    "letra": "F",
+    "cargador": false
+},
+"historial":[
+    {
+        "salida": "Buenos Aires",
+        "destino": "Rio de Janeiro",
+        "fecha": "10/12/2021"
+
+    },
+    {
+        "salida": "Madrid",
+        "destino": "Caracas",
+        "fecha": "24/12/2021"
+
+    }
+]
+},
+{
+    "nombre": "Valeria",
+    "apellido": "Yegros",
+    "edad": 27,
+    "precioAsiento": 200.24,
+    "pagado": true,
+    "asiento": {
+        "numero": 14,
+        "letra": "F",
+        "cargador": true
+    },
+    "historial":[
+        {
+            "salida": "Buenos Aires",
+            "destino": "Rio de Janeiro",
+            "fecha": "10/12/2021"
+    
+        },
+        {
+            "salida": "Madrid",
+            "destino": "Caracas",
+            "fecha": "24/12/2021"
+    
+        }
+    ]
+    }
+]
